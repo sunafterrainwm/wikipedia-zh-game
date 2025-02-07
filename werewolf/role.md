@@ -1,8 +1,8 @@
-# 狼人殺角色列表
-
+---
+target_page: https://tg1-game.solsticeflare.live/werewolf/role
 ---
 
-> 本頁已被棄用，預計2025年年初刪除
+# 狼人殺角色列表
 
 ---
 
@@ -781,9 +781,9 @@
 - 傳教成功率：0%
 - 轉換成功率：0%
 
-![](BlackWolf2AlphaWolf.jpg)
+![](images/BlackWolf2AlphaWolf.jpg)
 
-![](AlphaWolf2BlackWolf.jpg)
+![](images/AlphaWolf2BlackWolf.jpg)
 
 #### 模仿者 🎭｜Doppelgänger (DG) {#模仿者}
 <a id="Doppelgänger"></a><a id="DG"></a>
