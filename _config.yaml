@@ -1,4 +1,5 @@
 ---
+encoding: utf-8
 plugins:
   - jekyll-theme-remote
 lang: zh-TW
