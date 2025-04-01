@@ -1,5 +1,5 @@
 ---
-target_page: https://tg1-game.solsticeflare.live/werewolf/role
+target_page: https://tg1-game.sfproj.cc/werewolf/role
 ---
 
 # 狼人殺角色列表
